@@ -9,6 +9,7 @@ spec:
     providerKind: github
     repositories:
     - name: quickstart-2
+    - name: quickstart-3
     - name: quickstart-test-go-http
     scheduler: in-repo
   slack:
